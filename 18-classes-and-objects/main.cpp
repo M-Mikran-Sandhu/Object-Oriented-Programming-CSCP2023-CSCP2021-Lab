@@ -3,7 +3,6 @@
 #include <cstdlib>   
 using namespace std;
 
-// ---------- The class (the blueprint) ----------
 class Student {
 private:                  
     string name;
