@@ -1,4 +1,4 @@
-# Program 21: this pointer, const member functions, static members
+# Program 24: this pointer, const member functions, static members
 
 ## Objective
 Show how a class can keep a shared counter of its objects (`static`), use `this` to tell its own members from constructor parameters, and mark read-only functions `const`.

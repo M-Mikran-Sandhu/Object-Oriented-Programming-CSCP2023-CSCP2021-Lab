@@ -11,11 +11,14 @@ Revision programs for the Object Oriented Programming course, written in 2026 as
 ## Programs
 | # | Program | Topic |
 |---|---------|-------|
-| 18 | [Classes and Objects](18-classes-and-objects/) | Class, objects, private/public, validation in the class |
+| 21 | [Classes and Objects](21-classes-and-objects/) | Classes, objects, private and public members |
+| 22 | [Getters and Setters with Validation](22-getters-setters-validation/) | Getters, setters, and checking values |
+| 23 | [Constructors and Destructors](23-constructors-destructors/) | Setting up and cleaning up objects |
+| 24 | [this, const, and static](24-this-const-static/) | Object members, read-only functions, and a shared counter |
 
 ## How to compile and run
 ```
-cd 18-classes-and-objects
+cd 21-classes-and-objects
 g++ main.cpp -o main
 ./main
 ```
